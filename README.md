@@ -10,7 +10,7 @@
 # Hello, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ```diff
-+ Keep watching for more contributions for developers community .
++ Keep watching for more contributions for developer communities .
 
 ```
 
