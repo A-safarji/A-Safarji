@@ -4,7 +4,7 @@
 
 ## Under Updating Profile!!
 
-<b>I am working on my profile to make it a beter place and share my up comming repositories and projects!!!! </b>
+<b style="color:blue;">I am working on my profile to make it a beter place and share my up comming repositories and projects!!!! </b>
 
 
 
