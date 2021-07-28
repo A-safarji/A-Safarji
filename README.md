@@ -4,7 +4,7 @@
 
 ## Under Updating Profile!!
 
-I am working on my profile to make it a beter place and share my up comming repositories and projects!!!! 
+<b>I am working on my profile to make it a beter place and share my up comming repositories and projects!!!! </b>
 
 
 
