@@ -21,6 +21,7 @@ for developer communities .
 ## 😂 Here is a random jokes while waiting!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-safarji&show_icons=true&theme=tokyonight)
 
 
