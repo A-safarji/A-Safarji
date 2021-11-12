@@ -35,7 +35,8 @@ on developer and data science communities.
 <br>
 <br>
 </a>
-<br><br>
+<br>
+</br>
  
  ## Today's quote
  
