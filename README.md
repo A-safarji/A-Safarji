@@ -16,6 +16,7 @@
 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+![](https://visitor-badge.glitch.me/badge?page_id=A-safarji.A-safarji)
 
 ```diff
 + Keep watching for more contributions
@@ -35,7 +36,7 @@ on developer and data science communities.
 </a>
 <br><br>
 
-![](https://visitor-badge.glitch.me/badge?page_id=A-safarji.A-safarji)
+
 
 <!--
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
