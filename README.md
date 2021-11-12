@@ -38,8 +38,6 @@ on developer and data science communities.
 <br><br>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=A-safarji&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
