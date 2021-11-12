@@ -38,6 +38,7 @@ on developer and data science communities.
 <br><br>
 
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote)
 
 <!--
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
