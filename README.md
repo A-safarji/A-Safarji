@@ -37,6 +37,7 @@ on developer and data science communities.
 </a>
 <br><br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-safarji)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
