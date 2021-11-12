@@ -11,7 +11,7 @@
 
 ```diff
 + Keep watching for more contributions
-for developer communities .
+on developer and data science communities.
 
 ```
  ## Updating Profile!!
