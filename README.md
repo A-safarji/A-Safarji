@@ -30,7 +30,7 @@ on developer and data science communities.
 
 ## Stats
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=A-safarji&show_icons=true&theme=tokyonight"  width=100%
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=A-safarji&show_icons=true&theme=Gradient"  width=100%
   height=auto />
 <br>
 <br>
@@ -48,11 +48,3 @@ on developer and data science communities.
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 -->
  
- 
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=A-safarji&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=A-safarji&repo=convoychat" />
-</a>
-
