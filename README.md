@@ -38,7 +38,7 @@ on developer and data science communities.
 <br><br>
 
 <br><br>
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=churchill)
 
 
 <!--
