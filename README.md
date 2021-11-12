@@ -37,11 +37,8 @@ on developer and data science communities.
 </a>
 <br><br>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-safarji&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-safarji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=A-safarji&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
