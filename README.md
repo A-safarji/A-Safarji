@@ -36,8 +36,8 @@ on developer and data science communities.
 <br>
 </a>
 <br><br>
- 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=A-safarji)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-safarji&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-safarji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
