@@ -38,6 +38,7 @@ on developer and data science communities.
 <br><br>
  
  ## Today's quote
+ 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=churchill)
 
 
