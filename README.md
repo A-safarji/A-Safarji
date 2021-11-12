@@ -25,7 +25,7 @@ on developer and data science communities.
 
 ```
  ## Updating Profile!!
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) I am working on my profile to make it a better place and share my up comming repositories and projects!!!! 
+-  I am working on my profile to make it a better place and share my up comming repositories and projects ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)!!!! 
 
 
 ## Stats 📈 
