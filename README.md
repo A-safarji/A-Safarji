@@ -7,6 +7,10 @@
 @@ text in purple (and bold)@@
 ```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-safarji&show_icons=true&theme=tokyonight)
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 -->
 # Hello, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -27,6 +31,3 @@ on developer and data science communities.
 <br>
 </a>
 
-
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
