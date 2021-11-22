@@ -44,7 +44,9 @@ on developer and data science communities.
 ```
  ## Today's quote ✍ 
  
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=churchill)
+
+
+<img align="center" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=churchill"  />
 
 
 <!--
