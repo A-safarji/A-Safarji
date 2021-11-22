@@ -37,8 +37,9 @@ on developer and data science communities.
 </a>
 <br>
 </br>
+
  ```diff
-# 
+# &
 
 ```
  ## Today's quote ✍ 
