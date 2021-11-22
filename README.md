@@ -42,7 +42,7 @@ on developer and data science communities.
 # &
 
 ```
-
+ ## Today's quote ✍ 
  
 
 
