@@ -30,7 +30,7 @@ on developer and data science communities.
 
 ## Stats 📈 
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=A-safarji&show_icons=true&theme=algolia"  width=100% />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=A-safarji&show_icons=true&theme=algolia"  width=100% hight=auto />
  
 <br>
 <br>
@@ -46,7 +46,7 @@ on developer and data science communities.
  
 
 
-<img align="center" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=churchill"  />
+<img align="center" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=churchill" hight=auto />
 
 
 <!--
