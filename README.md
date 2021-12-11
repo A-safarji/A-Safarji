@@ -46,7 +46,7 @@ on developer and data science communities.
  
 
 
-<img align="center" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=churchill" hight=auto />
+<img align="center" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=zues" hight=auto />
 
 
 <!--
