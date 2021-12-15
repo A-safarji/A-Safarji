@@ -30,7 +30,7 @@ on developer and data science communities.
 ## Personal Publishing 
  
 
-[how-to-deploy-large-size-deep-learning-models-into-production](https://medium.com/@abdultawwabsafarji/how-to-deploy-large-size-deep-learning-models-into-production-66b851d17f33)
+[how to deploy large size deep learning models into production](https://medium.com/@abdultawwabsafarji/how-to-deploy-large-size-deep-learning-models-into-production-66b851d17f33)
 
 ## Stats 📈 
 <a href="#">
