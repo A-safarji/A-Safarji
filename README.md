@@ -30,7 +30,7 @@ on developer and data science communities.
 ## Personal Publishing 
  
 
-* [how to deploy large size deep learning models into production](https://medium.com/@abdultawwabsafarji/how-to-deploy-large-size-deep-learning-models-into-production-66b851d17f33)
+* [Medium: How to deploy large size deep learning models into production](https://medium.com/@abdultawwabsafarji/how-to-deploy-large-size-deep-learning-models-into-production-66b851d17f33)
 
 ## Stats 📈 
 <a href="#">
@@ -50,7 +50,7 @@ on developer and data science communities.
  
 
 
-<img align="center" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=zues" hight=auto />
+<img align="center" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=zues" width=100% hight=auto />
 
 
 <!--
