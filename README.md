@@ -27,9 +27,10 @@ on developer and data science communities.
  ## Updating Profile!!
 -  I am working on my profile to make it a better place and share my up comming repositories and projects ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)!!!! 
 
-## My Article 
+## Personal Publishing 
+ 
 
-https://medium.com/@abdultawwabsafarji/how-to-deploy-large-size-deep-learning-models-into-production-66b851d17f33
+[how-to-deploy-large-size-deep-learning-models-into-production](https://medium.com/@abdultawwabsafarji/how-to-deploy-large-size-deep-learning-models-into-production-66b851d17f33)
 
 ## Stats 📈 
 <a href="#">
