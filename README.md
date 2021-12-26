@@ -51,7 +51,8 @@ on developer and data science communities.
 
 
 <img align="center" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=zues"  />
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
+[[Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 <!--
