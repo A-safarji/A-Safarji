@@ -47,10 +47,7 @@ on developer and data science communities.
 
 ```
  ## Today's quote ✍ 
- 
 
-
-<img align="center" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=zues" />
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api)](https://github.com/piyushsuthar/github-readme-quotes)
 
