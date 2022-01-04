@@ -23,10 +23,10 @@
 + Keep watching for more contributions
 on developer and data science communities.
 
-![Check my projects now!](https://github.com/A-safarji?tab=repositories)
 ```
  ## Profile 🎓
 I am working on my profile to make it a better place and share my up comming repositories and projects ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)!
+![Check my projects now!](https://github.com/A-safarji?tab=repositories)
 
 ## Personal Publishing 📚
  
