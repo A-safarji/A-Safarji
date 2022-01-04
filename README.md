@@ -29,7 +29,7 @@ I am working on my profile to make it a better place and share my up comming rep
  
  
 ![](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
-[Check my projects now!](https://github.com/A-safarji?tab=repositories) 
+🗂 [Check my projects now!](https://github.com/A-safarji?tab=repositories) 
  
  
 ## Personal Publishing 📚
