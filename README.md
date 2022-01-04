@@ -31,8 +31,7 @@ I am working on my profile to make it a better place and share my up comming rep
 ![](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 [Check my projects now!](https://github.com/A-safarji?tab=repositories) 
  
- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)!
-
+ 
 ## Personal Publishing 📚
  
 
@@ -61,6 +60,8 @@ I am working on my profile to make it a better place and share my up comming rep
 
 
 <!--
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)!
+
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
