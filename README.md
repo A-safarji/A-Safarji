@@ -25,8 +25,8 @@ on developer and data science communities.
 
 ```
  ## Profile 🎓
-I am working on my profile to make it a better place and share my up comming repositories and projects ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)!
-![Check my projects now!](https://github.com/A-safarji?tab=repositories)
+I am working on my profile to make it a better place and share my up comming repositories and projects 
+![Check my projects now!](https://github.com/A-safarji?tab=repositories) ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)!
 
 ## Personal Publishing 📚
  
