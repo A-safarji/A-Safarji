@@ -64,7 +64,6 @@ on developer and data science communities.
 ## Contact me 
 
 <a href="mailto:a.m.safarji@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
 <a href="https://wa.me/966545447360?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
