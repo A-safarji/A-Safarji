@@ -25,7 +25,8 @@ on developer and data science communities.
 
 ```
  ## Profile 🎓
-I am working on my profile to make it a better place and share my up comming repositories and projects.
+ I am working on my profile to make it a better place and share my up comming repositories and projects.
+ Interest: AI, NLP, Data Science, ML/DL, Full-stack.
  
  
 🗂 [Check my projects now!](https://github.com/A-safarji?tab=repositories) 
