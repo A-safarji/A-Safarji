@@ -24,9 +24,13 @@
 on developer and data science communities.
 
 ```
- ## Profile 🎓
- I am working on my profile to make it a better place and share my up comming repositories and projects.
+ ## Profile Info 🎓
+ 
+ I am working on my profile to make it a better place and share my up comming repositories and projects under my interests.
+ 
  Interest: AI, NLP, Data Science, ML/DL, Full-stack.
+ 
+ 
  
  
 🗂 [Check my projects now!](https://github.com/A-safarji?tab=repositories) 
@@ -35,7 +39,6 @@ on developer and data science communities.
  
  
 ## Personal Publishing 📚
- 
 
 * [Towards Data Science: How to deploy large size deep learning models into production](https://medium.com/@abdultawwabsafarji/how-to-deploy-large-size-deep-learning-models-into-production-66b851d17f33)
 
