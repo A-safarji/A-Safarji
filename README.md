@@ -28,7 +28,7 @@ on developer and data science communities.
  
  I am working on my profile to make it a better place and share my up comming repositories and projects under my interests.
  
- Interest: AI, NLP, Data Science, ML/DL, Full-stack.
+ Interest: AI, NLP, Data Science, ML/Deep-learning, Time-series, Recommender-systems, Full-stack.
  
  
  
