@@ -39,7 +39,7 @@ on developer and data science communities.
  
  
 ## Personal Publishing 📚
-Author in medium publications (https://medium.com/@abdultawwabsafarji)
+[Author in medium publications](https://medium.com/@abdultawwabsafarji)
 
 * [Towards Data Science: How to deploy large size deep learning models into production](https://medium.com/@abdultawwabsafarji/how-to-deploy-large-size-deep-learning-models-into-production-66b851d17f33)
 
