@@ -61,8 +61,9 @@ on developer and data science communities.
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
+## Contact me 
 
-
+* [Email](am.safarji@gmail.com)
 
 
 <!--
