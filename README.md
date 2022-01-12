@@ -63,7 +63,8 @@ on developer and data science communities.
 
 ## Contact me 
 
-* [Email](am.safarji@gmail.com)
+* ![Email](am.safarji@gmail.com)
+* ![WhatsApp](https://wa.me/966545447360)
 
 
 <!--
