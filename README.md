@@ -43,7 +43,7 @@ on developer and data science communities.
 
 * [Towards Data Science: How to deploy large size deep learning models into production](https://medium.com/@abdultawwabsafarji/how-to-deploy-large-size-deep-learning-models-into-production-66b851d17f33)
  
-* [Towards AI Univariate Time Series With Stacked LSTM, BiLSTM, and NeuralProphet](https://pub.towardsai.net/univariate-time-series-with-stacked-lstm-bilstm-and-neuralprophet-c8d6a11a9665)
+* [Towards AI: Univariate Time Series With Stacked LSTM, BiLSTM, and NeuralProphet](https://pub.towardsai.net/univariate-time-series-with-stacked-lstm-bilstm-and-neuralprophet-c8d6a11a9665)
  
 
 ## Stats 📈 
