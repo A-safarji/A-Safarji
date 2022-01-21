@@ -28,7 +28,7 @@ on developer and data science communities.
  
  I am passionate about expanding my experience as a developer and data scientist and  will share future repositories and projects in areas of interest.
  
- Interest: AI, NLP, Data Science, ML/Deep-learning, Time-series, Recommender-systems, Full-stack.
+ Interest: AI, NLP, Data Science, ML/Deep-learning, Time-series, Recommender-systems, Full-Stack.
  
  
  
