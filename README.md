@@ -3,7 +3,7 @@
 - text in red
 + text in green
 ! text in orange
-# text in gray
+# text in grayf
 @@ text in purple (and bold)@@
 ```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-safarji&show_icons=true&theme=tokyonight)
