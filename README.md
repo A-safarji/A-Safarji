@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=eee407" alt="Star Badge"/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=A-safarji.A-safarji)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 ```diff
 + Keep watching for more contributions
