@@ -48,9 +48,10 @@ on developer and data science communities.
  
 
 ## Stats 📈 
+<!--
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=A-safarji&show_icons=true&theme=algolia"  width=100% hight=auto />
- 
+ -->
 <br>
 <br>
 </a>
