@@ -59,7 +59,7 @@ on developer and data science communities.
 </br>
 
  ```diff
-# &
+
 
 ```
  ## Today's quote ✍ 
